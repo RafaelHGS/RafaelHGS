@@ -38,3 +38,11 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
+<div align="center">
+  <a href="https://github.com/RafaelHGS">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Cifra-de-Cesar&theme=gotham">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=DIO-Copia-Tela-login-Instagram&theme=gotham">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Python-Brasil---Lista-de-Exercicios&theme=gotham">
+</div>
