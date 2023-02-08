@@ -40,10 +40,9 @@ Here are some ideas to get you started:
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/DIO-Copia-Tela-login-Instagram">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=DIO-Copia-Tela-login-Instagram&theme=gotham"></a>
-  <a href="https://github.com/RafaelHGS/Python-Brasil---Lista-de-Exercicios">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Python-Brasil---Lista-de-Exercicios&theme=gotham"></a>
+  <a href="https://github.com/RafaelHGS/Modelo-Site-Simples">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Modelo-Site-Simples&theme=gotham"></a>
 </div>
-
 
 <div style="display: inline_block"><br>
  <a href="https://github.com/RafaelHGS">
