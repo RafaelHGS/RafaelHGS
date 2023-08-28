@@ -20,13 +20,13 @@
 
 <div align="center">
   <a href="https://github.com/RafaelHGS/DIO-Copia-Tela-login-Instagram">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=A3---Usabilidade-Sistemas-Distribu-dos&theme=gotham"></a>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=A3---Usabilidade-Sistemas-Distribu-dos&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/Modelo-Site-Simples">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Modelo-Site-Simples&theme=gotham"></a>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Modelo-Site-Simples&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/ProjetoPortaria">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham"></a>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/Cifra-de-Cesar">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Cifra-de-Cesar&theme=gotham"></a>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Cifra-de-Cesar&theme=gotham"></a>
 </div>
 
 <div style="display: inline_block"><br>
