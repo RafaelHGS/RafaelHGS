@@ -1,18 +1,3 @@
-<!--
-**RafaelHGS/RafaelHGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Olá, seja bem vindo ao meu perfil !
 
  Meu nome é Rafael Soares, atualmente sou um estudante de Ciência da Computação pela universidade Anhembi Morumbi, espero que se divirta olhando meu perfil, meus projetos e que possamos construir uma excelente comunidade e agregar cada vez mais conhecimento na plataforma.
@@ -34,14 +19,14 @@ Here are some ideas to get you started:
 ## Alguns Bons Projetos ;)
 
 <div align="center">
-  <a href="https://github.com/RafaelHGS/Cifra-de-Cesar">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Cifra-de-Cesar&theme=gotham"></a>
-  <a href="https://github.com/RafaelHGS/ProjetoPortaria">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/DIO-Copia-Tela-login-Instagram">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=DIO-Copia-Tela-login-Instagram&theme=gotham"></a>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=A3---Usabilidade-Sistemas-Distribu-dos&theme=gotham"></a>
   <a href="https://github.com/RafaelHGS/Modelo-Site-Simples">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Modelo-Site-Simples&theme=gotham"></a>
+  <a href="https://github.com/RafaelHGS/ProjetoPortaria">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=gotham"></a>
+  <a href="https://github.com/RafaelHGS/Cifra-de-Cesar">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Cifra-de-Cesar&theme=gotham"></a>
 </div>
 
 <div style="display: inline_block"><br>
