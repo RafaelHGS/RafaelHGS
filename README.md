@@ -26,11 +26,11 @@ Meu nome é Rafael Soares, formado como Bacharel em Ciência da Computação pel
   <a href="https://github.com/RafaelHGS/A3-IA">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=A3-IA&theme=buefy"/>
   </a>
-  <a href="https://github.com/RafaelHGS/ProjetoPortaria">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=buefy"/>
-  </a>
   <a href="https://github.com/RafaelHGS/Python-Brasil---Lista-de-Exercicios">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=Python-Brasil---Lista-de-Exercicios&theme=buefy"/>
+  </a>
+    <a href="https://github.com/RafaelHGS/ProjetoPortaria">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelHGS&repo=ProjetoPortaria&theme=buefy"/>
   </a>
 </div>
 
