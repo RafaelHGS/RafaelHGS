@@ -25,8 +25,8 @@ Meu nome é **Rafael Soares**, sou **Bacharel em Ciência da Computação** pela
 
 ## 🚀 Alguns Bons Projetos
 <div align="center">
-  <a href="https://github.com/RafaelHGS/A3---Usabilidade-Sistemas-Distribu-dos">
-    <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelHGS&repo=A3---Usabilidade-Sistemas-Distribu-dos&theme=buefy&cache_seconds=1800"/>
+  <a href="https://github.com/RafaelHGS/A3-Gestor-Financeiro">
+    <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelHGS&repo=A3-Gestor-Financeiro&theme=buefy&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/RafaelHGS/A3-IA">
     <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelHGS&repo=A3-IA&theme=buefy&cache_seconds=1800"/>
