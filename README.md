@@ -10,7 +10,7 @@ Meu nome é **Rafael Soares**, sou **Bacharel em Ciência da Computação** pela
 - 📬 **Contato**:  
   - 📧 rafaelhenrique43@yahoo.com.br  
   - 📧 rafaelhenrique42@yahoo.com.br  
-
+ 
 ---
 
 ## 📊 Estatísticas do GitHub
